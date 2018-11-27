@@ -2,7 +2,7 @@
 %input: P,Q -> two points between the distance is to be calculated.
 %output: D -> the squared dictance.
 %
-%author: Harry
+%author: Harpreet Singh
 
 function D = SquaredDistance(P,Q)
 
