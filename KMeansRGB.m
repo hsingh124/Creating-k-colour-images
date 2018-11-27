@@ -13,7 +13,7 @@
 %                   corresponding to that row number
 %implemented: AssignToClusters, UpdateMeans
 %
-%author: Harry
+%author: Harpreet Singh
 
 function [newclusters,newmeans] = KMeansRGB(A,seedmeans,i)
 
