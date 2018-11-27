@@ -6,7 +6,7 @@
 %output: means -> A 3D array containing k rows, 1 column and 3 layers,
 %                 which stores the mean values for each cluster.
 %
-%author: Harry
+%author: Harpreet Singh
 
 function means = UpdateMeans(A,k,clusters)
 
