@@ -7,7 +7,7 @@
 %                    which contains the corresponding cluster number for
 %                    each pixel of the image.
 %
-%author: Harry
+%author: Harpreet Singh
 
 function clusters = AssignToClusters(A,pclrs)
 
