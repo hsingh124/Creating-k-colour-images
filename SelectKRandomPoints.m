@@ -5,7 +5,7 @@
 %outputs: poins -> a 2D array of k rows and 2 cloumns representing the
 %                  position of the randomly selected points(pixels)
 %
-%author: Harry
+%author: Harpreet Singh
 
 function points = SelectKRandomPoints(A,k)
 
