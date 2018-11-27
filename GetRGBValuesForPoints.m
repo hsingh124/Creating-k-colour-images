@@ -5,7 +5,7 @@
 %output: pclrs -> A 3D array which contains the RGB values of the selected
 %                 pixels.
 %
-%author: Harry
+%author: Harpreet Singh
 
 function pclrs = GetRGBValuesForPoints(A,points)
 
