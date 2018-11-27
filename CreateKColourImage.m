@@ -12,7 +12,7 @@
 %                 determined by the colour of the cluster that pixel
 %                 belongs to.
 %
-%author: Harry
+%author: Harpreet Singh
 
 function newimg = CreateKColourImage(newclusters,newmeans)
 
